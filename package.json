@@ -1,0 +1,12 @@
+{
+  "name": "payroll-and-advances",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Учёт зарплат и авансов (статика + Firebase Realtime Database)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
